@@ -1,6 +1,6 @@
 import unittest
-from lab1 import *
-#lab1.py should contain your data class and function definitions
+from proj1 import *
+#proj1.py should contain your data class and function definitions
 #these tests are very minimal but ensure your data definitions and functions have valid structure and type compatibility before implementing logic.
 
 class TestRegionFunctions(unittest.TestCase):
